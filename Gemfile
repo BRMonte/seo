@@ -23,6 +23,7 @@ gem 'jbuilder', '~> 2.7'
 # gem 'bcrypt', '~> 3.1.7'
 
 gem 'friendly_id', '~> 5.2.4'
+gem 'meta-tags'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
